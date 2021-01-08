@@ -6,7 +6,7 @@
 * Clone this repo:
 
 ```bash
-git clone https://github.com/niemet0502/twitter-clone.git
+git clone https://github.com/niemet0502/airbnb-clone.git
 ```
 
 * Change directory to the project
