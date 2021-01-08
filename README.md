@@ -1,4 +1,4 @@
-# This Repo contain twitter Clone made with React js
+# This Repo contain Airbnb Clone made with React js
 
 
 ## Installation
